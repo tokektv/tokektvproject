@@ -158,7 +158,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 ######## VIVA GROUP ########
 ############################
 
-#EXTINF:-1 group-title="Nasional" tvg-id="ANTV.id" tvg-logo="https://res.cloudinary.com/ndiqz/image/upload/v1704114751/logotv/Antv_xaizhx.png",ANTV
+#EXTINF:-1 group-title="Nasional" tvg-id="ANTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/320px-Antv_logo.svg.png",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
