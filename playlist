@@ -12,81 +12,81 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 
-"#EXTINF:0 group-title=""Nasional"" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/rcti-id.png?raw=true"" ,RCTI"
+#EXTINF:0 group-title=""Nasional" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/rcti-id.png?raw=true"" ,RCTI"
 #EXTVLCOPT:http-user-agent=android-R+ #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-"#EXTINF:-1 group-title=""Nasional"" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/mnc-tv-id.png?raw=true"",MNC TV"
+#EXTINF:-1 group-title=""Nasional" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/mnc-tv-id.png?raw=true"",MNC TV"
 #EXTVLCOPT:http-user-agent=android-R+ #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-"#EXTINF:-1 group-title=""Nasional"" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/gtv-id.png?raw=true"",GTV"
+#EXTINF:-1 group-title=""Nasional" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/gtv-id.png?raw=true"",GTV"
 #EXTVLCOPT:http-user-agent=android-R+ #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
-"#EXTINF:-1 group-title=""Nasional"" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/inews-id.png?raw=true"",INEWS"
+#EXTINF:-1 group-title=""Nasional" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/inews-id.png?raw=true"",INEWS"
 #EXTVLCOPT:http-user-agent=android-R+ #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
-"#EXTINF:-1 group-title=""Nasional"" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/antv-id.png?raw=true"",ANTV"
+#EXTINF:-1 group-title=""Nasional" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/antv-id.png?raw=true"",ANTV"
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-"#EXTINF: -1 group-title=""Nasional"" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/indosiar-id.png?raw=true"",INDOSIAR"
+#EXTINF: -1 group-title=""Nasional" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/indosiar-id.png?raw=true"",INDOSIAR"
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-"#EXTINF: -1 group-title=""Nasional"" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/sctv-id.png?raw=true"",SCTV"
+#EXTINF: -1 group-title=""Nasional" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/sctv-id.png?raw=true"",SCTV"
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-"#EXTINF:-1 group-title=""Nasional"" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/moji-id.png?raw=true"",MOJI"
+#EXTINF:-1 group-title=""Nasional" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/moji-id.png?raw=true"",MOJI"
 http://rr3.dens.tv/s/s41/index.m3u8
 
-"#EXTINF:-1 group-title=""Nasional"" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-tv-id.png?raw=true"",TRANS TV"
+#EXTINF:-1 group-title=""Nasional" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-tv-id.png?raw=true"",TRANS TV"
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
-"#EXTINF:-1 group-title=""Nasional"" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-7-id.png?raw=true"",TRANS 7"
+#EXTINF:-1 group-title=""Nasional" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-7-id.png?raw=true"",TRANS 7"
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
-"#EXTINF:-1 group-title=""Nasional"" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/net-id.png?raw=true"",NET"
+#EXTINF:-1 group-title=""Nasional" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/net-id.png?raw=true"",NET"
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
-"#EXTINF:-1 group-title=""Nasional"" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/tv-one-id.png?raw=true"",TV ONE"
+#EXTINF:-1 group-title=""Nasional" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/tv-one-id.png?raw=true"",TV ONE"
 https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
-"#EXTINF:-1 group-title=""Nasional"" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/metro-tv-id.png?raw=true"",METRO TV"
+#EXTINF:-1 group-title=""Nasional" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/metro-tv-id.png?raw=true"",METRO TV"
 http://rr.dens.tv/h/h12/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Metro_TV
 https://ythls.onrender.com/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
 
-"#EXTINF:-1 group-title=""Nasional"" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/rtv-id.png?raw=true"",RTV"
+#EXTINF:-1 group-title=""Nasional" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/rtv-id.png?raw=true"",RTV"
 https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
 
-"#EXTINF:-1 group-title=""Nasional"" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/tvri-id.png?raw=true"",TVRI NASIONAL"
+#EXTINF:-1 group-title=""Nasional" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/tvri-id.png?raw=true"",TVRI NASIONAL"
 http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
 
-"#EXTINF:-1 group-title=""Nasional"" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/btv-id.png?raw=true"",BTV"
+#EXTINF:-1 group-title=""Nasional" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/btv-id.png?raw=true"",BTV"
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 
-"#EXTINF:-1 group-title=""Nasional"" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/kompas-tv-id.png?raw=true"",KOMPAS TV"
+#EXTINF:-1 group-title=""Nasional" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/kompas-tv-id.png?raw=true"",KOMPAS TV"
 http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
 
-"#EXTINF:-1 group-title=""Nasional"" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/international/cnn-international-int.png?raw=true"",CNN INDONESIA"
+#EXTINF:-1 group-title=""Nasional" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/international/cnn-international-int.png?raw=true"",CNN INDONESIA"
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
-"#EXTINF:-1 group-title=""Nasional"" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnbc-us.png?raw=true"",CNBC INDONESIA"
+#EXTINF:-1 group-title=""Nasional" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnbc-us.png?raw=true"",CNBC INDONESIA"
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
-"#EXTINF:-1 group-title=""Nasional"" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/mentari-tv-id.png?raw=true"",MENTARI TV"
+#EXTINF:-1 group-title=""Nasional" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/mentari-tv-id.png?raw=true"",MENTARI TV"
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-"#EXTINF:-1 group-title=""Nasional"" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png"" ,NUSANTARA TV"
+#EXTINF:-1 group-title=""Nasional" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png"" ,NUSANTARA TV"
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
-"#EXTINF:-1 group-title=""Nasional"" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/jtv-id.png?raw=true"",JTV"
+#EXTINF:-1 group-title=""Nasional" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/jtv-id.png?raw=true"",JTV"
 https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/chunklist_w1825392864.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-"#EXTINF: -1 group-title=""Nasional"" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/daai-tv-id.png?raw=true"" , DAAI TV"
+#EXTINF: -1 group-title=""Nasional" tvg-logo=""https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/daai-tv-id.png?raw=true"" , DAAI TV
 https://liveaneviadev.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
