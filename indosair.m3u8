@@ -5,5 +5,3 @@ EXTM3U
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162138.ts
-#EXTINF:1,
-http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162138.ts
