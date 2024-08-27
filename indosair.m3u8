@@ -4,4 +4,6 @@ EXTM3U
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162138.ts
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+#EXTINF:1,
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
