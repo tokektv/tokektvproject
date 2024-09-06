@@ -3,6 +3,17 @@
 
 #EXTM3U url-tvg="https://epg.urfan.web.id"  refresh="3600"
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="SPORTS2" tvg-logo="https://dl.dropboxusercontent.com/s/7b91c92lplsks96/spotv.png",SPOTV
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="SPORTS2" tvg-logo="https://dl.dropboxusercontent.com/s/7b91c92lplsks96/spotv.png",SPOTV 2
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 ###########################
 ######## MNC GROUP ########
