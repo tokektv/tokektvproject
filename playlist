@@ -44,21 +44,10 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTVLCOPT:http-user-agent=Google
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
+#EXTINF:-1 group-title="Nasional" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",Indosiar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=881afa67ea57b41c1822d745d67559e6&kid=5eaddccd893a47ac8b65f9b31963a3ae&tekon=djisamsoe
-#EXTINF:-1 tvg-ID="animax.id" tvg-name="Indosiar" group-title="Nasional" tvg-logo="https://1.bp.blogspot.com/-sr_JztcW1i0/YJVWujZQJMI/AAAAAAAAEaU/3E_UVUSecGgVGKfzk_SUgeVrejjIo4LDACLcBGAsYHQ/s720/indosiar-p.png", Indosiar
-#EXTVLCOPT:http-origin=https://www.visionplus.id/
-#EXTVLCOPT:http-referrer=Google
-#EXTVLCOPT:http-accept-encoding=gzip, deflate, br
-#EXTVLCOPT:http-accept-language=en-US,en;q=0.9,id;q=0.8
-#EXTVLCOPT:http-sec-ch-ua="Microsoft Edge";v="117", "Not;A=Brand";v="8", "Chromium";v="117"
-#EXTVLCOPT:http-sec-ch-ua-mobile=?0
-#EXTVLCOPT:http-sec-ch-ua-platform="Windows"
-#EXTVLCOPT:http-sec-fetch-dest=empty
-#EXTVLCOPT:http-sec-fetch-mode=cors
-#EXTVLCOPT:http-sec-fetch-site=cross-site
-#EXTVLCOPT:http-user-agent=Google
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mp
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 group-title="Nasional" tvg-id="OChannel.id" tvg-logo="https://iptv.urfan.web.id/logo/moji.png",Moji
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
