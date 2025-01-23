@@ -106,7 +106,7 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 ######## KOMPAS GRAMEDIA ########
 #################################
 
-#EXTINF:-1 group-title="Nasional" tvg-id="KompasTV.id" tvg-logo="https://iptv.urfan.web.id/logo/kompastv.png",Kompas TV
+#EXTINF:-1 group-title="Nasional" tvg-id="KompasTV.id" tvg-logo="https://i.imgur.com/ZjGADj3.png",Kompas TV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://yt.urfan.web.id/stream/DOOrIxw5xOw/master.m3u8
 
