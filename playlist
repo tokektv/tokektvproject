@@ -11,7 +11,7 @@
 ######## MNC GROUP ########
 ###########################
 
-#EXTINF:-1 group-title="Nasional" tvg-id="RCTI.id" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
+#EXTINF:-1 group-title="Nasional" tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/OFJRpXw.png",RCTI
 #EXTVLCOPT:http-user-agent=android-R+ #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
