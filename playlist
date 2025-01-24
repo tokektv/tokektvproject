@@ -132,31 +132,31 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 ##########>>MOTO GP<<#########
 ############################### 
 
-#EXTINF:-1 group-title="MOTO GP" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV
+#EXTINF:-1 group-title="MOTO GP" tvg-logo="https://i.imgur.com/LlmKot4.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8 
 
-#EXTINF:-1 group-title="MOTO GP" tvg-id="spotv.kr" tvg-logo="https://iptv.urfan.id/logo/spotv.png",SPOTV
+#EXTINF:-1 group-title="MOTO GP" tvg-id="spotv.kr" tvg-logo="https://i.imgur.com/wYsSC8d.png",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
-#EXTINF:-1 group-title="MOTO GP" tvg-id="spotv2.kr" tvg-logo="https://iptv.urfan.id/logo/spotv2.png",SPOTV 2
+#EXTINF:-1 group-title="MOTO GP" tvg-id="spotv2.kr" tvg-logo="https://i.imgur.com/1oXlJ54.png",SPOTV 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 group-title="Nasional" tvg-id="spotv.kr" tvg-logo="https://iptv.urfan.id/logo/spotv.png",SPOTV
+#EXTINF:-1 group-title="Nasional" tvg-id="spotv.kr" tvg-logo="https://i.imgur.com/wYsSC8d.png",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
-#EXTINF:-1 group-title="Nasional" tvg-id="spotv2.kr" tvg-logo="https://iptv.urfan.id/logo/spotv2.png",SPOTV 2
+#EXTINF:-1 group-title="Nasional" tvg-id="spotv2.kr" tvg-logo="https://i.imgur.com/1oXlJ54.png",SPOTV 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
