@@ -11,13 +11,17 @@
 ######## MNC GROUP ########
 ###########################
 
-#EXTINF:-1 group-title="Nasional" tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/OFJRpXw.png",RCTI
-#EXTVLCOPT:http-user-agent=android-R+ #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://dl.dropboxusercontent.com/s/62ryx1k6tdaeygm/rcti.png", RCTI
+https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 group-title="Nasional" tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/0gOLSXm.png",MNCTV
-#EXTVLCOPT:http-user-agent=android-R+ #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://dl.dropboxusercontent.com/s/541aydqr502xl5z/mnctv.png", MNC TV
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 group-title="Nasional" tvg-id="GTV.id" tvg-logo="https://i.imgur.com/rxDcP9u.png",GTV
 #EXTVLCOPT:http-user-agent=android-R+ #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
