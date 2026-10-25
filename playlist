@@ -7,8 +7,7 @@
 ######## HBO GROUP ########
 ##########################
 
-
-#EXTINF:-1, Nama Channel 3
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://i.imgur.com/OFJRpXw.png", RCTI11
 http://192.168.6.89:8999/stream=3.ts
 
 
